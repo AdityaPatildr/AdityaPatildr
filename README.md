@@ -47,17 +47,24 @@ I'm a passionate software developer with a keen interest in Web development, App
 
 Here are a few projects I've worked on:
 
-- **[Project Name](link to project repository)**: Brief description of the project.
-- **[Project Name](link to project repository)**: Brief description of the project.
-- **[Project Name](link to project repository)**: Brief description of the project.
-
+- **[BytterFly](https://github.com/AdityaPatildr/ai-writing-assitant)**:  An AI project to help you fix grammar mistakes and make your writing seem cool
+- **[Ecoflow](https://github.com/AdityaPatildr/ecoflow)**: The social network platform connecting you with people who care about the climate.
+  
 Feel free to explore more of my projects on my [GitHub repositories](link to your GitHub profile).
+
+## Subscribe to my blog
+
+[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://substack.com/@notadityapatil)
+
 
 ## Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](link)
-- Twitter: [@yourtwitterhandle](link)
-- Email: your.email@example.com
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-patil-9b1b2b1a7/)
+
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/notadityapatil)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patiladityadr@gmail.com)
+
 
 Let's connect and collaborate on exciting projects!
 
